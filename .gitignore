@@ -1,6 +1,4 @@
 # Ignore exported game builds
-*.pck
-*.wasm
 *.exe
 *.dll
 *.so
