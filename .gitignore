@@ -1,0 +1,11 @@
+# Ignore exported game builds
+*.pck
+*.wasm
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore other generated files
+*.log
+*.tmp
